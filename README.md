@@ -15,6 +15,8 @@ CreateDefinitions creates a definition.csv file from the bmp created.
 
 CreateHistory creates history files for the timelapse according to the images provided, in this case Bad Apple.
 
-ScaleFrames is used to resize the frames I extracted from the original video.
+ScaleFrames is used to resize the frames I extracted from the original video
+
+All other methods turned out to be useless.
 
 Note for people interested in the modding part: My original design was to assign white pixels to a country with white color and black pixels to a black color in history files but I did something wrong and the black provinces ended up being uncolonized instead which still worked for me so I didn't try to fix it. Keep this in mind if you want to modify the project.
