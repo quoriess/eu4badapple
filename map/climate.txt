@@ -1,0 +1,4 @@
+#Example: Large parts of Africa and south east Asia
+tropical = {
+	1
+}

@@ -1,0 +1,8 @@
+government = kingdom
+government_rank = 1
+mercantilism = 0.25
+
+technology_group = western
+
+religion = test_religion
+primary_culture = test_culture

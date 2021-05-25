@@ -1,0 +1,5 @@
+# A region can only belong to one super region.
+
+guber_superregion = {
+	uber_region
+}
